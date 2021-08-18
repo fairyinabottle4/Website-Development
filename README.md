@@ -4,22 +4,22 @@ Hello! Here is my personal portfolio website based on [this template](https://gi
 
 Even though it was based on an open-source implementation, my version has undergone rigorous testing, UI/UX improvements and near-perfect mobile responsiveness. To use **my template**, look at [this section](#use-my-website-as-template) below.
 
-Feel free to reach out to me via the information provided in the [website](https://raythx.com/) or [linkedin](https://www.linkedin.com/in/raythx/).
+Feel free to reach out to me via the information provided in the [website](https://keithlow98.com/) or [linkedin](https://www.linkedin.com/in/raythx/).
 
 <p align="left"><img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = 40%></p>
 
 # Use my Website as Template
 
 ### Forking the repository
-- Visit my [repository](https://github.com/raythx98/portfolio-website).
+- Visit my [repository](https://github.com/fairyinabottle4/website-development).
 - Fork the repository by clicking on the Fork button
 
 ### Cloning the repository
 - Install [git](https://git-scm.com/downloads)
 - Visit the repository
-- Copy the link `https://github.com/raythx98/portfolio-website.git` of the repository by clicking on the clone button
+- Copy the link `https://github.com/fairyinabottle4/website-development.git` of the repository by clicking on the clone button
 - Open terminal
-- Type `git clone https://github.com/raythx98/portfolio-website.git`
+- Type `git clone https://github.com/fairyinabottle4/website-development.git`
 
 ### Personalising your Website
 
@@ -152,7 +152,7 @@ Feel free to reach out to me via the information provided in the [website](https
  
 5. Type `git push origin master`
 
-6. In your Github repository e.g. `https://github.com/raythx98/portfolio-website`, click on `Settings` and navigate to `Pages` on the left sidebar
+6. In your Github repository e.g. `https://github.com/fairyinabottle4/website-development`, click on `Settings` and navigate to `Pages` on the left sidebar
 
 7. Build your website by choosing `Branch: master`, folder `/ (root)` and click save.
 

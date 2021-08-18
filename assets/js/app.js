@@ -204,7 +204,7 @@ let footer = $(
 +'            <h6 class="display">Contact Me</h6>'
 +'            <form action="https://formsubmit.co/6f425d9c0540c8097f7b4e7bec120022" method="POST">'
 +'              <input type="hidden" name="_captcha" value="false">'
-+'              <input type="hidden" name="_next" value="https://raythx.com/submitted.html">'
++'              <input type="hidden" name="_next" value="https://keithlow98.com/submitted.html">'
 +'              <input type="text" name="field1" placeholder="Your Name" required/>'
 +'              <input type="email" name="field2" placeholder="Email Address" required/>'
 +'              <textarea name="field4" placeholder="Type your Message" required></textarea>'

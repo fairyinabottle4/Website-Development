@@ -52,7 +52,7 @@ Feel free to reach out to me via the information provided in the [website](https
 
 * To change the name on the home page
   * Open `index.html`
-  * Change all instances of `Ray Toh` to your Name
+  * Change all instances of `Keith Low` to your Name
 * To change the interests displayed
   * Open `index.html`
   * Search for `data-words` and change the list of words
@@ -122,15 +122,15 @@ Feel free to reach out to me via the information provided in the [website](https
 
 - Search for `site_name` & `site` and update it to the link to your portfolio
 
-- Search for `title` and update it from `Ray Toh | Home` to `Your Name | Home`
+- Search for `title` and update it from `Keith Low | Home` to `Your Name | Home`
 
 - Search for `keywords` & `description` and update by writing something about yourself
 
 - Search for `url` and update it to the link to your portfolio
 
-- Search for `application-name` and update it from `Ray Toh | Home` to `Your Name | Home`
+- Search for `application-name` and update it from `Keith Low | Home` to `Your Name | Home`
 
-- Search for `apple-mobile-web-app-title` and update it from `Ray Toh | Home` to `Your Name | Home`
+- Search for `apple-mobile-web-app-title` and update it from `Keith Low | Home` to `Your Name | Home`
 
 - Search for `summary` and update it by writing somthing about yourself
 

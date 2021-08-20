@@ -157,3 +157,8 @@ Feel free to reach out to me via the information provided in the [website](https
 7. Build your website by choosing `Branch: master`, folder `/ (root)` and click save.
 
 8. Your website is now up and running!
+
+
+
+
+Many thanks and all credit goes to my good friend [Ray](https://github.com/raythx98) who made this template. 
